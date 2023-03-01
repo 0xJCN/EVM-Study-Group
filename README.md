@@ -5,7 +5,7 @@ Learning about the EVM, in depth, from first principles.
 The intention of this group is to learn about the EVM in as much depth as possible. The base for the discussions will be the Yellow Paper. This study group's intention is not to cover all the knowledge needed for a security researcher. The EVM is the sole target of this group.
 
 ## Motivation
-The motivation behind starting this study group is the ever changing nature of this field. New concepts are constantly being built on top of eachother. The knowledge base needed to become a skilled security research is vast and ranges from computer science fundamentals to finance/new DeFi primatives. In my experience, many individuals (myself included), want to build this knowledge base as fast as possible. Some do and find success early, while others find themselves struggling to catch up. 
+The motivation behind starting this study group is the ever changing nature of this field. New concepts are constantly being built on top of eachother. The knowledge base needed to become a skilled security researcher is vast and ranges from computer science fundamentals to finance/new DeFi primatives. In my experience, many individuals (myself included), want to build this knowledge base as fast as possible. Some do and find success early, while others find themselves struggling to catch up. 
 
 The aim of this group is to take a "slow and steady" approach to build the required knowledge base to become a successful security researcher. It is worth noting that the EVM is just *one* component of your knowledge base, albiet an important one.
 
